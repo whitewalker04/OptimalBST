@@ -35,19 +35,4 @@ Dynamic Programming Table representing roots(R[i][j]):
 00    00    00    00    00    00    
 
 Optimal Binary Search Tree: 
-3
-    2
-        1
-            -
-            -
-        -
-    5
-        4
-            -
-            -
-        -
-
-
-
-
-
+![alt text](https://github.com/whitewalker04/OptimalBST/blob/main/images/BSTOutput.png)
